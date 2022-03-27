@@ -1,0 +1,150 @@
+
+
+.navbar{
+    background-color: #0f171e;
+    height:56px;
+    width:100%;
+    padding-left: 3px;
+    padding-top: 3px;
+}
+#level{
+border: 0;
+transition: .5s;
+}
+#level:hover{
+    transform: scale(1.1);
+}
+#size{
+    width: 180px;
+}
+.button{
+    
+    float: right;
+    background-color:transparent ;
+    border-color: transparent;
+    color: white;
+    width: 75px;
+    height: 40px;
+    margin-right: 120px;
+}
+.button1{
+    background-color: #0f79af;
+    position: absolute;
+    top: 250px;
+    left: 16px;
+    width: 300px;
+    height: 30px;
+    font-size: larger;
+    border: 0;
+    border-radius: 2px;
+    transition: .5s;
+}
+.button1:hover{
+    transform: scale(1.1);
+}
+.button2{
+    border-radius: 4px;
+    background-color: #f0c14b;
+    border: 0;
+    width: 260px;
+    height: 30px;
+}
+
+.menu{
+    float: right; 
+    width:100px;
+    height: 40px;
+    background-color:#0f171e ;
+    color: white;
+    border-color: transparent;
+        
+}
+.background{
+    position: relative;
+    
+}
+.background1{
+    
+    height: 430px;
+    width: 110%;
+    position: relative;
+}
+.background2{
+    height: 530px;
+    position: relative;
+
+}
+.background3{
+    
+    position: relative;
+
+
+}
+.text1{
+    position: absolute;
+    top: 40px;
+    left: 16px;
+   color: white;
+   font-family: Sans-serif;
+   font-size:50px;
+}
+.text2{
+    position: absolute;
+    top: 140px;
+    left: 16px;
+   color: white;
+   font-family: Sans-serif;
+   font-size:25px;
+}
+#text3{
+    width: 50%;
+    position: absolute;
+    top: 30px;
+    left: 16px;
+   color: black;
+   font-family: Sans-serif;
+   font-size:40px;
+}
+#text4{
+    width: 50%;
+    position: absolute;
+    top: 160px;
+    left: 16px;
+   color: black;
+   font-family: Sans-serif;
+   font-size :20px;
+
+}
+
+.box{
+    
+    border-color: rgb(150, 149, 149);
+    border-radius: 5px;
+    border-style: ridge;
+    border-width: 1px;
+    margin-left: 450px;
+    margin-right: 550px;
+    margin-top: 200px;
+    padding: 35px;
+}
+.connect{
+    font-family: Sans-serif;
+}
+
+
+.end{
+    height: 25%;
+    width: 100%;
+    background-color: #0f171e;
+    
+}
+#endlogo{
+    padding-left: 48%;
+    height:30px;
+}
+#endtext{
+    margin-left: 38%;
+    color: azure;
+    font-family: Sans-serif;
+
+}
